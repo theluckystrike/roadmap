@@ -34,7 +34,7 @@ return [
     'current_password'     => 'Nenosiri si sahihi.',
     'date'                 => 'Kipengele si tarehe halali.',
     'date_equals'          => ':attribute inapaswa kuwa tarehe sawa na :date.',
-    'date_format'          => 'Kipengele hakilingani na muundo :date.',
+    'date_format'          => 'Kipengele hakilingani na muundo :format.',
     'declined'             => ':Attribute inapaswa kukataliwa.',
     'declined_if'          => ':Attribute inapaswa kukataliwa kama :other ni :value.',
     'different'            => 'Kipengele na :other lazima viwe tofauti.',

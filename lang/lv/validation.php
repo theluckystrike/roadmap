@@ -108,7 +108,7 @@ return [
     'regex'                => ':attribute formāts ir nederīgs.',
     'required'             => ':attribute lauks ir obligāts.',
     'required_array_keys'  => 'The :attribute field must contain entries for: :values.',
-    'required_if'          => ':attribute lauks ir obligāts, ja :other ir :values.',
+    'required_if'          => ':attribute lauks ir obligāts, ja :other ir :value.',
     'required_unless'      => ':attribute lauks ir obligāts, ja vien :other nav :values.',
     'required_with'        => ':attribute lauks ir obligāts, kad kāds no :values ir pieejams.',
     'required_with_all'    => ':attribute lauks ir obligāts, kad viss no :values ir pieejams.',

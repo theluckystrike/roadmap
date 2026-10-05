@@ -87,7 +87,7 @@ return [
         'numeric' => ':attribute کو :max سے بڑا نہیں ہونا چاہیے۔',
         'string'  => ':attribute کو :max کریکٹرز سے زیادہ نہیں ہونا چاہیے۔',
     ],
-    'mimes'                => ':attribute لازماً :type :values قسم کی فائل ہو۔',
+    'mimes'                => ':attribute لازماً :values قسم کی فائل ہو۔',
     'mimetypes'            => 'اس :attribute ہونا ضروری ہے ایک فائل کی قسم: :values.',
     'min'                  => [
         'array'   => ':attribute میں لازماً کم از کم :min آئٹمز ہوں۔',

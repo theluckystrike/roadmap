@@ -103,7 +103,7 @@ return [
     'present'              => ':attribute mutlaka mevcut olmalıdır.',
     'prohibited'           => ':attribute alanı kısıtlanmıştır.',
     'prohibited_if'        => ':other alanının değeri :value ise :attribute alanına veri girişi yapılamaz.',
-    'prohibited_unless'    => ':other alanı :value değerlerinden birisi değilse :attribute alanına veri girişi yapılamaz.',
+    'prohibited_unless'    => ':other alanı :values değerlerinden birisi değilse :attribute alanına veri girişi yapılamaz.',
     'prohibits'            => ':attribute alanı :other alanının mevcut olmasını yasaklar.',
     'regex'                => ':attribute biçimi geçersiz.',
     'required'             => ':attribute mutlaka gereklidir.',

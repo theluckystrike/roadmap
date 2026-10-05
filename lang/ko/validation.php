@@ -103,7 +103,7 @@ return [
     'present'              => ':attribute 필드가 있어야 합니다.',
     'prohibited'           => ':attribute (은)는 금지되어 있습니다.',
     'prohibited_if'        => ':attribute (은)는 :other 이(가) :value 인 경우 금지되어 있습니다.',
-    'prohibited_unless'    => ':attribute (은)는 :other 이(가) :value 이(가) 아닌 경우 금지되어 있습니다.',
+    'prohibited_unless'    => ':attribute (은)는 :other 이(가) :values 이(가) 아닌 경우 금지되어 있습니다.',
     'prohibits'            => ':attribute (은)는 :other 을(를) 금지합니다.',
     'regex'                => ':attribute 형식이 올바르지 않습니다.',
     'required'             => ':attribute 필드는 필수입니다.',
